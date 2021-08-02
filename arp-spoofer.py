@@ -82,25 +82,3 @@ except KeyboardInterrupt:
     print("\n\n[-] Restoring ARP Tables....Please Wait\n")
     restore(options.target_ip, options.gateway_ip)
     restore(options.gateway_ip, options.target_ip)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
