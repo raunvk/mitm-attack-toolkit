@@ -16,4 +16,4 @@
 
 5. Run arp-spoofer.py PLUS http-sniffer.py to capture Login credentials over HTTP web pages [**$ sudo python3 http-sniffer.py -i [interface]**]
 
-6. Run arp-spoofer.py PLUS packet-analyzer.py to capture and analyze Ethernet Packets and obtain crucial information [**$ sudo python3 packet-analyzer.py**]
+6. Run arp-spoofer.py PLUS packet-analyzer.py to capture and analyze Ethernet packets and obtain crucial information [**$ sudo python3 packet-analyzer.py**]
