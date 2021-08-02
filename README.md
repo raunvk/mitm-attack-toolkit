@@ -14,6 +14,6 @@
 
 4. Run arp-spoofer.py to spoof your Gateway (router) IP address to become Man in the Middle [**$ sudo python3 arp-spoofer.py -t [targetIP] -g [gatewayIP]**]
 
-5. Run arp-spoofer.py ALONG WITH http-sniffer.py to capture Login credentials over HTTP web pages [**$ sudo python3 http-sniffer.py -i [interface]**]
+5. Run arp-spoofer.py PLUS http-sniffer.py to capture Login credentials over HTTP web pages [**$ sudo python3 http-sniffer.py -i [interface]**]
 
-6. Run arp-spoofer.py ALONG WITH packet-analyzer.py to capture and analyze Ethernet Packets and obtain crucial information [**$ sudo python3 packet-analyzer.py**]
+6. Run arp-spoofer.py PLUS WITH packet-analyzer.py to capture and analyze Ethernet Packets and obtain crucial information [**$ sudo python3 packet-analyzer.py**]
